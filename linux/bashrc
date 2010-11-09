@@ -110,8 +110,6 @@ alias mainsrv='ssh adminusr@mainsrv'
 alias testsrv='ssh edwin@testsrv'
 alias prolog='swipl'
 
-PS1="[\u@ \W] "
-
 #source ~/.git-completion.bash
 
 # Alias definitions.
