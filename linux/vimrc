@@ -1,0 +1,62 @@
+set nu
+set nobackup
+set nowritebackup
+set nocompatible
+set lbr!
+set showcmd
+set ic
+
+set smartindent
+set ignorecase
+set incsearch
+set hlsearch
+
+filetype plugin indent on
+
+" For enabling Tasklist
+filetype plugin on
+
+" For GVim
+" Removes the tool bar from GVim
+set guioptions -=T
+
+" The following command removes the menu bar
+" from GVim
+"set guioptions -=m
+highlight Normal guibg=black guifg=white
+set gfn=Monospace\ 9
+"winpos 50 50
+"set lines=50
+"set columns=120
+
+" Auto complete settings
+autocmd FileType python set omnifunc=pythoncomplete#Complete
+autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+
+" Status bar info
+set laststatus=2
+set autoindent
+
+syntax enable
+syntax on
+set cindent shiftwidth=4
+set tabstop=4
+
+set ruler
+set autoindent
+
+filetype plugin indent on
+
+"my c-defined configs
+highlight comment ctermfg=lightblue
+highlight string ctermfg=DarkYellow
+
+" Ctags related stuff
+" src directory ctags file
+set tags+=$HOME/src/git/tags
+set tags+=$HOME/src/coreutils/tags
+"set tags+=$HOME/src/postgresql/tags
+"set tags+=$HOME/src/linux/tags
+"set tags+=$HOME/src/minix/tags
+"set tags+=$HOME/src/vim/src
+
