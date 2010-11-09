@@ -1,0 +1,12 @@
+[user]
+	name = Ed Panameno
+	email = ed.panameno@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = auto
