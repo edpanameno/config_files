@@ -53,10 +53,5 @@ highlight string ctermfg=DarkYellow
 
 " Ctags related stuff
 " src directory ctags file
-set tags+=$HOME/src/git/tags
-set tags+=$HOME/src/coreutils/tags
-"set tags+=$HOME/src/postgresql/tags
-"set tags+=$HOME/src/linux/tags
-"set tags+=$HOME/src/minix/tags
-"set tags+=$HOME/src/vim/src
+"set tags+=$HOME/src/git/tags
 
