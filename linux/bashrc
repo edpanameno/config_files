@@ -33,15 +33,8 @@ case "$TERM" in
     xterm-color) color_prompt=yes;;
 esac
 
-PS1="[\u@ \W]\$ "
-export PS1
-
 # Path related stuff
-# I added some groovy stuff here a while back when I thought I was
-# going to get a job from a company that used groovy.  To my dissapointment
-# I didn't get the job ... but wait? Why am I writing about this in this 
-# file?
-PATH=$PATH:/home/ed/apps/groovy-1.7.4/bin
+PATH=$PATH
 export PATH
 
 # Subversion aliases
@@ -55,6 +48,9 @@ alias svnst="svn status"
 alias irb="irb1.9.1"
 alias ri="ri1.9.1"
 alias ruby="ruby1.9.1"
+
+PS1="[\u@ \W]\$ "
+export PS1
 
 # uncomment for a colored prompt, if the terminal has the capability; turned
 # off by default to not distract the user: the focus in a terminal window
