@@ -57,8 +57,9 @@ highlight string ctermfg=DarkYellow
 
 " My Maps
 " Tabs
-nmap :tc :tabclose<CR>
-nmap :tn :tabnext<CR>
-nmap :tp :tabprevious<CR>
-nmap :tf :tabfirst<CR>
-nmap :tl :tablast<CR>
+nmap te :tabedit
+nmap tc :tabclose<CR>
+nmap tn :tabnext<CR>
+nmap tp :tabprevious<CR>
+nmap tf :tabfirst<CR>
+nmap tl :tablast<cr>
