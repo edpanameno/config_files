@@ -62,4 +62,4 @@ nmap tc :tabclose<CR>
 nmap tn :tabnext<CR>
 nmap tp :tabprevious<CR>
 nmap tf :tabfirst<CR>
-nmap tl :tablast<cr>
+nmap tl :tablast<CR>
