@@ -45,9 +45,11 @@ alias svnu="svn update"
 alias svnst="svn status"
 
 # git aliases
-alias gca='git commit -a'
+alias gc='git commit -a'
 alias gs='git status'
 alias gd='git diff'
+alias gc='git commit'
+alias gp='git push'
  
 # Ruby aliases
 alias irb="irb1.9.1"
