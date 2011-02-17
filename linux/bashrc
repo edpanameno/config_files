@@ -34,7 +34,7 @@ case "$TERM" in
 esac
 
 # Path related stuff
-PATH=$PATH
+PATH=$PATH:/home/ed/apps/android-sdk-linux_x86/plaform-tools
 export PATH
 
 # Subversion aliases
