@@ -56,9 +56,6 @@ alias irb="irb1.9.1"
 alias ri="ri1.9.1"
 alias ruby="ruby1.9.1"
 
-PS1="[\u@ \W]\$ "
-export PS1
-
 # uncomment for a colored prompt, if the terminal has the capability; turned
 # off by default to not distract the user: the focus in a terminal window
 # should be on the output of commands, not on the prompt
@@ -112,6 +109,9 @@ alias h='history'
 alias mainsrv='ssh adminusr@mainsrv'
 alias testsrv='ssh edwin@testsrv'
 alias prolog='swipl'
+
+PS1="[\u@ \W]\$ "
+export PS1
 
 #source ~/.git-completion.bash
 
