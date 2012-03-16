@@ -26,5 +26,5 @@
 	br = branch
 	co = checkout
 	df = diff
-	lg = log -p
+	lg = log --stat
 
