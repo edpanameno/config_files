@@ -1,4 +1,4 @@
-#Sat Dec 24 16:25:41 PST 2011
+#Wed Mar 21 22:39:15 PDT 2012
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_label=do not insert
 /instance/com.adobe.flexide.as.core/asASDocColor=\#7D8C93
@@ -11,7 +11,7 @@
 /instance/org.eclipse.wst.css.ui/UNIVERSAL=\#678CB1 | null | false | false | false | false
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.arg.Color.Background=-1
 /instance/org.tigris.subversion.subclipse.ui/pref_select_unadded_resources_on_commit=false
-@com.android.ide.eclipse.ddms=12.0.0.v201106281929-138431
+@com.android.ide.eclipse.ddms=16.0.1.v201112150204-238534
 /instance/org.eclipse.ant.ui/useAnnotationsPrefPage=true
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse/url=file\:/C\:/apps/eclipse/
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_61_data_listener_1279728649_/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
@@ -19,7 +19,6 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.svnkit.com_1.3.x_/name=http\://eclipse.svnkit.com/1.3.x/
 /instance/org.eclipse.ui.editors/spacesForTabs=true
 /instance/org.eclipse.cdt.ui/asm_label=224,226,228
-/instance/org.eclipse.pde.core/workspace_target_handle=local\:1316398291069.target
 /instance/org.eclipse.jst.j2ee.webservice.ui/areThereWebServices=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__www.eclipse.org_modeling_emft_?project\=search\#search/enabled=false
@@ -53,6 +52,7 @@
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.arg.Color.Foreground=-1
 /instance/org.eclipse.help.ui/browser.w=1024
 /instance/com.android.ide.eclipse.ddms/emulatorControl.waypoint.elevation=53
+@org.eclipse.cdt.ui=5.3.2.201202111925
 /instance/org.eclipse.jdt.ui/java_keyword_return=147,199,99
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__eclipse.svnkit.com_1.3.x/enabled=true
@@ -66,11 +66,12 @@
 /instance/com.adobe.flexide.as.core/asFunctionColor=\#678CB1
 /instance/org.eclipse.equinox.p2.ui.sdk/allowNonOKPlan=always
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_eclipse_updates_3.4/description=
+/instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
 /instance/com.adobe.flexide.as.core/asCommentColor=\#7D8C93
 /instance/org.eclipse.php.ui/editorColorLineComment=\#7D8C93 | null | false | false | false | false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__eclipse.org_tptp_updates_/url=http\://eclipse.org/tptp/updates/
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.method.enabled=true
-@com.android.ide.eclipse.adt=12.0.0.v201106281929-138431
+@com.android.ide.eclipse.adt=16.0.1.v201112150204-238534
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.enum.color=224,226,228
 /instance/org.epic.perleditor/taskIndicationColor=255,139,255
@@ -79,14 +80,14 @@
 /instance/org.eclipse.jdt.ui/content_assist_number_of_computers=21
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.org_tptp_updates_/enabled=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_colon_in_for=insert
-@org.eclipse.datatools.sqltools.sqleditor=1.0.2.v201009230800
+@org.eclipse.datatools.sqltools.sqleditor=1.0.2.v201107221520
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.single=125,140,147
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_61_data_listener_-831561720/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
 /instance/org.eclipse.jdt.ui/outlinesortoption=T,SI,SF,SM,F,C,I,M,
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_dsdp_dd_updates/enabled=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_block=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_angle_bracket_in_parameterized_type_reference=do not insert
-@org.eclipse.core.variables=3.2.500.v20110511
+@org.eclipse.core.variables=3.2.500.v20110928-1503
 /instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.italic=true
 /instance/ch.epfl.lamp.sdt.core/matchingBracketsColor=0,100,0
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_tools_ajdt_34_update/enabled=true
@@ -131,7 +132,6 @@
 /instance/org.eclipse.ui.editors/isOccurrenceGoToNextNavigationTarget=true
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_buckminster_updates/enabled=false
 /instance/org.eclipse.wst.jsdt.ui/java_doc_default=125,140,147
-@org.eclipse.egit.ui=1.0.0.201106090707-r
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.svnkit.com_1.3.x_/provider=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_annotation=insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_datatools_updates/enabled=false
@@ -152,7 +152,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_compact_if=16
 @org.eclipse.core.runtime=3.7.0.v20110110
 /instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.enabled=true
-@org.eclipse.jdt.ui=3.7.0.v20110531-1200
+@org.eclipse.jdt.ui=3.7.2.v20120109-1427
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_switch=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_question_in_wildcard=do not insert
@@ -194,7 +194,7 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_eclipse_updates_3.4/enabled=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_releases_ganymede/suffix=content.xml
 /instance/org.eclipse.php.ui/editorColorBoundarymaker=\#E0E2E4 | null | false | false | false | false
-@org.eclipse.debug.core=3.7.0.v20110518
+@org.eclipse.debug.core=3.7.1.v20111129-2031
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_61_data_listener_-831561720_/suffix=content.xml
 /instance/com.adobe.flexide.css.core/cssCommentColor=\#7D8C93
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Lucida Console|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
@@ -220,19 +220,18 @@
 /instance/org.eclipse.wst.server.core/runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="J2EE Runtime Library" location\="C\:/apps/apache-tomcat-5.5.26" name\="J2EE Runtime Library" runtime-type-id\="org.eclipse.jst.server.core.runtimeType" timestamp\="0"/>\r\n  <runtime id\="Apache Tomcat v6.0" location\="D\:/apps/tomcat" name\="Apache Tomcat v6.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="1" vm-install-id\="1223786575885" vm-install-type-id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType"/>\r\n</runtimes>\r\n
 /instance/org.eclipse.mylyn.java.ui/org.eclipse.mylyn.java.ui.run.count.3_1_0=1
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.ConstantHighlighting.color=\#E0E2E4
-@org.eclipse.wst.xml.ui=1.1.200.v201105111835
+@org.eclipse.wst.xml.ui=1.1.202.v201112071516
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.svnkit.com_1.3.x_/description=
 /instance/org.eclipse.equinox.p2.ui.sdk/autoUpdateInit=true
-/instance/org.eclipse.ui.ide/platformState=1312431830955
+/instance/org.eclipse.ui.ide/platformState=1331249923979
 /instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticField.color=103,140,177
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_tools_cdt_releases_ganymede/enabled=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_emft_updates_/url=http\://download.eclipse.org/modeling/emft/updates/
-@org.eclipse.pde.core=3.7.0.v20110603
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__eclipse.svnkit.com_1.3.x/description=
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_technology_epp_updates_1.0/description=
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.color=224,226,228
-@org.eclipse.ui.browser=3.3.100.v20110426
+@org.eclipse.ui.browser=3.3.101.v20111019-1723
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__vrapper.sourceforge.net_update-site_stable/version=1.0.0
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951_/isSystem=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.blank_lines_before_package=0
@@ -330,14 +329,14 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.director_rollback/isSystem=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_for=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_angle_bracket_in_type_parameters=do not insert
-@org.eclipse.team.ui=3.6.100.I20110525-0800
+@org.eclipse.team.ui=3.6.101.R37x_v20111109-0800
 /instance/org.eclipse.wst.html.ui/declBoder=\#678CB1 | null | false | false | false | false
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.string.Color.Background=-1
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_paren_in_catch=do not insert
 /instance/org.eclipse.php.ui/editorColorKeyword=\#93C763 | null | false | false | false | false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.continuation_indentation=2
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_.eclipseextension/description=
-@org.eclipse.jdt.core=3.7.0.v_B61
+@org.eclipse.jdt.core=3.7.3.v20120119-1537
 /instance/org.python.pydev/CLASS_NAME_COLOR=103,140,177
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_m2t_updates_/isSystem=false
 /instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.color=224,226,228
@@ -375,7 +374,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indentation.size=4
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951_/version=1.0.0
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_technology_subversive_0.7_update-site_/isSystem=false
-@org.eclipse.jdt.launching=3.6.0.v20110509
+@org.eclipse.jdt.launching=3.6.1.v20111006_r372
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_parenthesized_expression=do not insert
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__www.scala-lang.org_scala-eclipse-plugin/description=
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.groovyDoc.keyword.color=160,130,189
@@ -395,14 +394,13 @@
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.processingInstructionsColor=224,226,228
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.org_tptp_updates_/isSystem=false
 /instance/org.eclipse.ui.ide/TASKS_FILTERS_MIGRATE=true
-@org.eclipse.jdt.debug.ui=3.6.0.v20110512
+@org.eclipse.jdt.debug.ui=3.6.1.v20111006_r372
 /instance/org.eclipse.wst.css.ui/MEDIA=\#93C763 | null | false | false | false | false
 /instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__argoeclipse.tigris.org_update/enabled=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_releases_ganymede/version=1.0.0
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__www.eclipse.org_modeling_emft_?project\=search\#search/url=http\://www.eclipse.org/modeling/emft/?project\=search\#search
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__www.scala-lang.org_scala-eclipse-plugin/enabled=true
-@org.eclipse.egit.core=1.0.0.201106090707-r
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.enabled=true
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
@@ -415,7 +413,7 @@
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_modeling_m2m_updates_/url=http\://download.eclipse.org/modeling/m2m/updates/
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_paren_in_synchronized=do not insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_tools_gef_update-site_releases_site.xml/enabled=false
-@org.eclipse.jst.jsp.ui=1.1.600.v201105092017
+@org.eclipse.jst.jsp.ui=1.1.602.v201112071516
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_paren_in_method_declaration=do not insert
 /instance/org.eclipse.jdt.ui/java_default=211,215,218
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__subclipse.tigris.org_update_1.6.x/name=http\://subclipse.tigris.org/update_1.6.x
@@ -432,20 +430,20 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache_/isSystem=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_rt_rap_update-site/url=http\://download.eclipse.org/rt/rap/update-site
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_superinterfaces_in_type_declaration=16
-@net.sourceforge.vrapper.eclipse=0.16.0
+@net.sourceforge.vrapper.eclipse=0.18.0
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache_/isSystem=true
-@org.eclipse.wst.html.ui=1.0.600.v201104211436
+@org.eclipse.wst.html.ui=1.0.602.v201202091936
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache/suffix=artifacts.xml
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache/description=
-@org.eclipse.mylyn.context.core=3.6.0.v20110608-1400
+@org.eclipse.mylyn.context.core=3.6.1.v20110720-0100
 /instance/org.eclipse.php.ui/editorColorString=\#EC7600 | null | false | false | false | false
 /instance/com.adobe.flexide.css.core/cssStringColor=\#EC7600
 /instance/org.eclipse.jdt.ui/command=C\:\\Program Files\\Java\\jdk1.6.0_07\\bin\\javadoc.exe
-@org.eclipse.jst.jsp.core=1.2.400.v201105162116
+@org.eclipse.jst.jsp.core=1.2.402.v201112071853
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_dsdp_tm_updates_3.0/enabled=false
 /instance/net.sourceforge.vrapper.eclipse/vrapperEnabled=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_technology_epp_updates_1.0_/url=http\://download.eclipse.org/technology/epp/updates/1.0/
-@org.eclipse.team.cvs.ui=3.3.400.I20110510-0800
+@org.eclipse.team.cvs.ui=3.3.401.v20120126-1227
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__vrapper.sourceforge.net_update-site_stable/name=Vrapper Stable Update Site
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_releases_ganymede/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskTags=TODO,FIXME,XXX
@@ -466,7 +464,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_bracket_in_array_reference=do not insert
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.def.Color.Background=-1
 /instance/org.eclipse.wst.html.ui/tagAttributeName=\#678CB1 | null | false | false | false | false
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Lucida Console|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Lucida Console|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_multiple_field_declarations=insert
 /instance/com.adobe.flexide.css.core/cssMediaColor=\#93C763
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
@@ -530,7 +528,7 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.field.enabled=true
 /instance/org.eclipse.ui.workbench/svn_comment_font=1|Lucida Console|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_birt_update-site_2.3/enabled=false
-@org.eclipse.equinox.p2.ui.sdk=1.0.200.v20110502-1955
+@org.eclipse.equinox.p2.ui.sdk=1.0.200.v20110815-1419
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_/name=Bundle pool
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_buckminster_updates/url=http\://download.eclipse.org/tools/buckminster/updates
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.literal.Bold=true
@@ -603,20 +601,20 @@
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_technology_dltk_updates_/isSystem=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951_/name=metadata listener dropins
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.continuation_indentation_for_array_initializer=2
-@org.eclipse.wst.server.core=1.1.302.v20110518
+@org.eclipse.wst.server.core=1.1.304.v20120208_1420
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_m2m_updates_/url=http\://download.eclipse.org/modeling/m2m/updates/
 /instance/org.epic.perleditor/keyword2Color=103,140,177
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_method_declaration=do not insert
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951/provider=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_for=do not insert
-/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Lucida Console|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
-@org.eclipse.ui=3.7.0.I20110602-0100
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Lucida Console|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
+@org.eclipse.ui=3.7.0.v20110928-1505
 /instance/org.eclipse.php.ui/editorColorTask=\#FF8BFF | null | false | false | false | false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_technology_epp_updates_1.0/version=1.0.0
 /instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="0">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n</web-browsers>
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_type_declaration=next_line
-@org.eclipse.rse.ui=3.2.0.v201105311250
+@org.eclipse.rse.ui=3.2.1.R33x_v201109141647
 /instance/org.eclipse.jdt.ui/java_doc_keyword=160,130,189
 /instance/org.epic.perleditor/bookmarkIndicationColor=103,140,177
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_mdt_updates_/isSystem=false
@@ -685,7 +683,7 @@
 /instance/com.adobe.flexide.as.core/asInterfaceColor=\#678CB1
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_/provider=
 /instance/org.eclipse.wst.jsdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
-@org.eclipse.jst.server.tomcat.core=1.1.300.v20110427
+@org.eclipse.jst.server.tomcat.core=1.1.301.v20111010_1242
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__subclipse.tigris.org_update_1.6.x/enabled=true
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_modeling_m2m_updates_/isSystem=false
 /instance/org.eclipse.wst.xml.ui/doctypeExternalPubref=\#678CB1 | null | false | false | false | false
@@ -704,7 +702,7 @@
 /instance/ch.epfl.lamp.sdt.ui/color_scala_string_italics=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_ajdt_34_update/enabled=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__vrapper.sourceforge.net_update-site_stable/url=http\://vrapper.sourceforge.net/update-site/stable
-@org.eclipse.wst.server.ui=1.1.305.v20110511
+@org.eclipse.wst.server.ui=1.3.0.v20120210_1439
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_technology_subversive_0.7_update-site_/enabled=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_.eclipseextension/description=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_question_in_conditional=insert
@@ -795,6 +793,7 @@
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache/version=1.0.0
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__www.scala-lang.org_scala-eclipse-plugin/version=1
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_/suffix=artifacts.xml
+/instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.groovyDoc.link.color=103,140,177
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indent_breaks_compare_to_cases=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__vrapper.sourceforge.net_update-site_stable/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
@@ -802,7 +801,7 @@
 /instance/org.eclipse.wst.jsdt.ui/java_comment_task_tag=255,139,255
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_before_else_in_if_statement=insert
 /instance/org.eclipse.wst.css.ui/ATTRIBUTE_DELIM=\#678CB1 | null | false | false | false | false
-@org.eclipse.ui.workbench=3.7.0.I20110519-0100
+@org.eclipse.ui.workbench=3.7.1.v20120104-1859
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_type_declaration=insert
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.highlight.default.color=224,226,228
 /instance/org.epic.perleditor/warningIndicationColor=236,118,0
@@ -852,7 +851,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_brace_in_enum_declaration=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_method_invocation_arguments=do not insert
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_gef_update-site_releases_site.xml/isSystem=false
-@org.eclipse.debug.ui=3.7.0.v20110518
+@org.eclipse.debug.ui=3.7.102.v20111129-1423_r372
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_parameters_in_method_declaration=2
 /instance/com.adobe.flexide.css.core/cssSelectorColor=\#E0E2E4
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_method_declaration_parameters=do not insert
@@ -922,7 +921,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_colon_in_assert=insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_dsdp_nab_updates/url=http\://download.eclipse.org/dsdp/nab/updates
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_technology_epp_updates_1.0_/name=EPP Usage Data Collector Update Site
-@org.eclipse.ui.ide=3.7.0.I20110519-0100
+@org.eclipse.ui.ide=3.7.0.v20110928-1505
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
 /instance/org.eclipse.wst.server.ui/restart=1
 /instance/org.eclipse.wst.jsdt.ui/semanticHighlighting.localVariable.enabled=true
@@ -933,9 +932,9 @@
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.MethodHighlighting.color=\#678CB1
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalConstantHighlighting.color=\#E0E2E4
 /instance/org.eclipse.wst.css.ui/SEMI_COLON=\#E0E2E4 | null | false | false | false | false
-@org.eclipse.wst.sse.core=1.1.600.v201105162116
+@org.eclipse.wst.sse.core=1.1.602.v201112071516
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.methodDeclarationName.color=232,226,183
-@org.eclipse.ant.ui=3.5.100.v20110510
+@org.eclipse.ant.ui=3.5.101.v20120110-1739
 /instance/org.tigris.subversion.subclipse.ui/pref_commit_with_errors=always
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_method_invocation=do not insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951_/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
@@ -971,6 +970,7 @@
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.switch_perspective_on_suspend=always
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.localVariableDeclaration.enabled=true
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
 /instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.color=224,226,228
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.taskCaseSensitive=enabled
@@ -1001,7 +1001,7 @@
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.localVariable.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_parameterized_type_reference=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_constructor_declaration_throws=insert
-@org.eclipse.help.base=3.6.0.v201106131736
+@org.eclipse.help.base=3.6.2.v201202080800
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.join_lines_in_comments=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_at_in_annotation_type_declaration=do not insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.director_rollback/version=1.0.0
@@ -1012,14 +1012,14 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_dsdp_nab_updates/enabled=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_tools_ajdt_34_update/url=http\://download.eclipse.org/tools/ajdt/34/update
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_arguments_in_qualified_allocation_expression=0
-@org.eclipse.wst.css.ui=1.0.600.v201103022054
+@org.eclipse.wst.css.ui=1.0.601.v201201101544
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_emf_updates_/url=http\://download.eclipse.org/modeling/emf/updates/
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache_/version=1.0.0
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__argoeclipse.tigris.org_update_site/name=http\://argoeclipse.tigris.org/update_site
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_enum_constant_arguments=do not insert
 /instance/ch.epfl.lamp.sdt.ui/color_scala_class=0,0,128
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.svnkit.com_1.3.x_/enabled=true
-@org.eclipse.mylyn.team.ui=3.6.0.v20110608-1400
+@org.eclipse.mylyn.team.ui=3.6.1.v20110825-0100
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_modeling_emf_updates/isSystem=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_stp_updates_/isSystem=false
 /instance/org.eclipse.wst.xml.ui/piBorder=\#678CB1 | null | false | false | false | false
@@ -1032,7 +1032,7 @@
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.dtdColor=103,140,177
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_mylyn_update_e3.4/name=Mylyn for Eclipse 3.4, 3.5 and 3.6
 /instance/org.eclipse.cdt.ui/c_numbers=255,205,34
-@org.eclipse.rse.core=3.2.0.v201105311250
+@org.eclipse.rse.core=3.2.2.R33x_v201110030150
 /instance/com.android.ide.eclipse.ddms/allocPanel.Col4=45
 /instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.color=103,140,177
 /instance/com.android.ide.eclipse.ddms/allocPanel.Col3=45
@@ -1065,7 +1065,7 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__subclipse.tigris.org_update_1.6.x/suffix=site.xml
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.userLibrary.jawin=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="true" version\="1">\r\n\t<archive path\="C\:/jawin/lib/jawin.jar"/>\r\n</userlibrary>\r\n
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__subclipse.tigris.org_update_1.6.x/name=http\://subclipse.tigris.org/update_1.6.x
-/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.jst.j2ee.navigator.ui.java.resource.decorator\:true,org.eclipse.jst.ws.jaxws.dom.integration.navigator.WebServiceDecorator\:true,org.eclipse.wst.server.ui.decorator\:false,com.android.ide.eclipse.adt.project.FolderDecorator\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.DependencyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ColumnDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ForeignKeyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.IndexTriggerDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.bookmarkDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.FilterNodeDecoration\:true,org.eclipse.datatools.connectivity.ui.decorator.contentextension\:false,org.eclipse.datatools.enablement.ingres.ui.providers.decorators.SynonymDecorationService\:true,org.eclipse.datatools.enablement.ingres.internal.ui.providers.decorators.ParameterDecorationService\:true,org.eclipse.datatools.enablement.sybase.asa.proxytabledecorator\:true,org.eclipse.datatools.enablement.sybase.ase.webservicetabledecorator\:true,org.eclipse.datatools.enablement.sybase.systemtabledecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_ejb\:true,org.eclipse.jst.j2ee.navigator.internal.J2EEProjectDecorator\:true,org.eclipse.jst.jee.ui.internal.navigator.ejb.BeanDecorator\:true,org.eclipse.jst.jee.navigator.internal.JEEProjectDecorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_servlet\:true,org.eclipse.jst.servlet.ui.Decorator\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.rse.core.virtualobject.decorator\:true,org.eclipse.rse.core.binary.executable.decorator\:true,org.eclipse.rse.core.script.executable.decorator\:true,org.eclipse.rse.core.java.executable.decorator\:true,org.eclipse.rse.core.library.decorator\:true,org.eclipse.rse.core.link.decorator\:true,org.eclipse.rse.subsystems.error.decorator\:true,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.wst.jsdt.ui.override.decorator\:true,org.eclipse.wst.server.ui.navigatorDecorator\:true,
+/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.jst.ws.jaxws.dom.integration.navigator.WebServiceDecorator\:true,org.eclipse.wst.server.ui.decorator\:false,com.android.ide.eclipse.adt.project.FolderDecorator\:true,org.eclipse.cdt.ui.indexedFiles\:false,org.eclipse.cdt.managedbuilder.ui.excludedFile\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.DependencyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ColumnDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ForeignKeyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.IndexTriggerDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.bookmarkDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.FilterNodeDecoration\:true,org.eclipse.datatools.connectivity.ui.decorator.contentextension\:false,org.eclipse.datatools.enablement.ingres.ui.providers.decorators.SynonymDecorationService\:true,org.eclipse.datatools.enablement.ingres.internal.ui.providers.decorators.ParameterDecorationService\:true,org.eclipse.datatools.enablement.sybase.asa.proxytabledecorator\:true,org.eclipse.datatools.enablement.sybase.ase.webservicetabledecorator\:true,org.eclipse.datatools.enablement.sybase.systemtabledecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_ejb\:true,org.eclipse.jst.j2ee.navigator.internal.J2EEProjectDecorator\:true,org.eclipse.jst.jee.ui.internal.navigator.ejb.BeanDecorator\:true,org.eclipse.jst.jee.navigator.internal.JEEProjectDecorator\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_servlet\:true,org.eclipse.jst.servlet.ui.Decorator\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.rse.core.virtualobject.decorator\:true,org.eclipse.rse.core.binary.executable.decorator\:true,org.eclipse.rse.core.script.executable.decorator\:true,org.eclipse.rse.core.java.executable.decorator\:true,org.eclipse.rse.core.library.decorator\:true,org.eclipse.rse.core.link.decorator\:true,org.eclipse.rse.subsystems.error.decorator\:true,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.wst.jsdt.ui.override.decorator\:true,org.eclipse.wst.server.ui.navigatorDecorator\:true,
 /instance/org.eclipse.wst.sse.core/task-tags/taskPriorities=1,2,1,1
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.keep_empty_array_initializer_on_one_line=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_ajdt_34_update/version=1.0.0
@@ -1110,7 +1110,7 @@
 /instance/org.eclipse.wst.jsdt.ui/java_keyword=147,199,99
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticMethodInvocation.enabled=true
 /instance/ch.epfl.lamp.sdt.core/matchingBrackets=true
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.jdt.ui.presentation
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.jdt.ui.presentation
 /instance/org.eclipse.php.ui/editorColorComment=\#7D8C93 | null | false | false | false | false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_switch=next_line
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_method_declaration=do not insert
@@ -1150,7 +1150,7 @@
 @org.eclipse.jst.j2ee.webservice.ui=1.1.500.v201105122000
 /instance/org.epic.perleditor/AbstractTextEditor.Color.Background.SystemDefault=false
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_p2_org.eclipse.equinox.p2.director_rollback/name=Agent rollback repository
-@org.eclipse.wst.sse.ui=1.3.0.v201105101529
+@org.eclipse.wst.sse.ui=1.3.2.v201201041522
 /instance/org.eclipse.php.ui/editorColorHeredoc=\#7D8C93 | null | false | false | false | false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_tools_ajdt_34_update/description=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_annotation=do not insert
@@ -1159,11 +1159,11 @@
 /instance/org.epic.perleditor/functionColor=103,140,177
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.preserve_white_space_between_code_and_line_comments=false
 /instance/org.epic.perleditor/keyword1Color=147,199,99
-@org.eclipse.help.ui=3.5.100.v20110425
+@org.eclipse.help.ui=3.5.101.r37_20110819
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__www.scala-lang.org_scala-eclipse-plugin/type=org.eclipse.equinox.p2.updatesite.artifactRepository
 /instance/org.eclipse.jdt.ui/semanticHighlighting.method.color=103,140,177
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_type_parameters=do not insert
-@org.eclipse.search=3.7.0.v20110505-0800
+@org.eclipse.search=3.7.0.v20110928-1504
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_webtools_updates/isSystem=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.use_on_off_tags=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_technology_rap_update-site/enabled=false
@@ -1182,7 +1182,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.number_of_blank_lines_at_beginning_of_method_body=0
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=224,226,228
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.class.Color.Background=-1
-@org.eclipse.core.resources=3.7.100.v20110510-0712
+@org.eclipse.core.resources=3.7.101.v20120125-1505
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951/isSystem=true
 /instance/org.epic.perleditor/comment1Color=125,140,147
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.groovyDoc.tag.color=224,226,228
@@ -1222,9 +1222,10 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_61_data_listener_-831561720_/version=1.0.0
 /instance/com.android.ide.eclipse.ddms/emulatorControl.track.name=129
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_conditional_expression=80
+/instance/org.eclipse.wst.xml.ui/xml_content_assist_default_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_technology_epp_updates_1.0_/provider=
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
-@org.eclipse.ui.editors=3.7.0.v20110517-0800
+@org.eclipse.ui.editors=3.7.0.v20110928-1504
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.highlight.strings.color=236,118,0
 /instance/ch.epfl.lamp.sdt.core/scalac.debuginfo=false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_rt_rap_update-site/url=http\://download.eclipse.org/rt/rap/update-site
@@ -1254,7 +1255,7 @@
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.type.Color.Foreground=-1
 /instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.color=224,226,228
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__argoeclipse.tigris.org_update_site/version=1
-@org.eclipse.wst.jsdt.ui=1.1.100.v201105041953
+@org.eclipse.wst.jsdt.ui=1.1.102.v201201131900
 /instance/org.eclipse.ui.workbench/overridepresentation=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__vrapper.sourceforge.net_update-site_stable/enabled=true
 @org.eclipse.epp.usagedata.recording=1.3.1.R201106061540
@@ -1287,6 +1288,7 @@ file_export_version=3.0
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.org_tptp_updates_/url=http\://eclipse.org/tptp/updates/
 /instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.enabled=true
 /instance/org.eclipse.jdt.ui/java_string=236,118,0
+/instance/org.eclipse.wst.xml.ui/xml_content_assist_own_page_sort_order=org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000
 /instance/org.python.pydev/FUNC_NAME_COLOR=103,140,177
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.typeParameter.color=224,226,228
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/apps/eclipse/plugins/org.junit_3.8.2.v20080602-1318
@@ -1391,7 +1393,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_anonymous_type_declaration=insert
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_technology_epp_updates_1.0_/enabled=true
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_apps_eclipse_configuration_org.eclipse.osgi_bundles_67_data_listener_1925729951_/url=file\:/C\:/apps/eclipse/configuration/org.eclipse.osgi/bundles/67/data/listener_1925729951/
-/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.sdk=C\:\\apps\\android_sdk
+/instance/com.android.ide.eclipse.adt/com.android.ide.eclipse.adt.sdk=C\:\\apps\\android-sdk
 /instance/org.eclipse.jdt.ui/pf_coloring_comment=125,140,147
 /instance/com.android.ide.eclipse.ddms/threadPanel.Col5=280
 /instance/com.android.ide.eclipse.ddms/threadPanel.Col4=45
@@ -1442,15 +1444,14 @@ file_export_version=3.0
 /instance/org.eclipse.wst.jsdt.ui/java_bracket=232,226,183
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_D\:_apps_eclipse_p2_org.eclipse.equinox.p2.core_cache_/url=file\:/D\:/apps/eclipse/p2/org.eclipse.equinox.p2.core/cache/
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.staticFieldSuffixes=
-/instance/org.eclipse.pde.core/platform_path=C\:\\apps\\eclipse
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_tools_buckminster_updates/url=http\://download.eclipse.org/tools/buckminster/updates
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_dsdp_dd_updates/url=http\://download.eclipse.org/dsdp/dd/updates
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1312431919618" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1312431919618" name\="jre6" path\="C\:\\Program Files (x86)\\Java\\jre6"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1331253338084">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1331253338084" name\="jre6" path\="C\:\\Program Files\\Java\\jre6"/>\r\n</vmType>\r\n</vmSettings>\r\n
 /instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.egit.ui.RepositoriesToggleBranchCommit/org.eclipse.ui.commands.toggleState=true
-@org.eclipse.pde.runtime=3.4.200.v20110508
+@org.eclipse.pde.runtime=3.4.201.v20110928-1516
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__www.scala-lang.org_scala-eclipse-plugin/description=
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_modeling_emft_updates_/isSystem=false
-/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Lucida Console|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Lucida Console|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|3|2|1|49|Lucida Console;
 /instance/org.python.pydev/SELF_COLOR=224,226,228
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=97,97,97
 /instance/org.eclipse.datatools.sqltools.sqleditor/Single-line=comment\=0,0,0,0,0,125,140,147
@@ -1458,7 +1459,7 @@ file_export_version=3.0
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__eclipse.svnkit.com_1.3.x_/version=1
 /instance/org.eclipse.wst.xml.ui/tagAttributeValue=\#EC7600 | null | false | false | false | false
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_rt_rap_update-site/enabled=false
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.textfont
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jdt.ui.editors.textfont
 /instance/org.eclipse.ui.editors/ch.epfl.lamp.sdt.core.arg.Italics=true
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__subclipse.tigris.org_update_1.6.x/type=org.eclipse.equinox.p2.updatesite.artifactRepository
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__argoeclipse.tigris.org_update_site/description=
