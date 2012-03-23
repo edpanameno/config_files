@@ -24,6 +24,9 @@ set ts=4
 " remove the toolbar from gvim
 set guioptions-=T
 
+" Set font for gvim in windws
+set guifont=Lucida\ Console:h8
+
 behave mswin
 
 set diffexpr=MyDiff()
