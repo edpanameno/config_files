@@ -13,6 +13,10 @@ set hlsearch
 
 filetype plugin indent on
 
+" remove the funnly little ^M characters
+" at the end of files when working in cygwin
+set ff=dos
+
 " For enabling Tasklist
 filetype plugin on
 
