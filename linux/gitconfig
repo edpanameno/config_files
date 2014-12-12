@@ -27,10 +27,10 @@
 	co = checkout
 	df = diff
 	#lg = log --stat
-	#lg1 = log --graph --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%cr)%C(reset) %C(white)%s%C(reset) %C(bold white)— %cn%C(reset)%C(bold yellow)%d%C(reset)' --abbrev-commit --date=relative 
-	#lg2 = log --graph --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%cD%C(reset) %C(bold green)(%cr)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(bold white)— %cn%C(reset)' --abbrev-commit
-	#lg = !"git lg1" 	
-	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
+[push]
+	default = matching
 [credential]
+	# This is used on my windows machines to store credentials
+	# when working on git repositories on VisualStudio Online
 	helper = !'/cygdrive/c/apps/git-credential-winstore.exe'
 
