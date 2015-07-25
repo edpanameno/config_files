@@ -27,6 +27,7 @@
 	co = checkout
 	df = diff
 	#lg = log --stat
+	ps = push
 [push]
 	default = matching
 [credential]
