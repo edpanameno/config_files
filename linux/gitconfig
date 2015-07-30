@@ -28,6 +28,7 @@
 	df = diff
 	#lg = log --stat
 	ps = push
+	pl = pull
 [push]
 	default = matching
 [credential]
