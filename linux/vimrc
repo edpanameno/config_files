@@ -29,6 +29,8 @@ set guioptions -=T
 "set guioptions -=m
 highlight Normal guibg=black guifg=white
 set gfn=Monospace\ 9
+" This is the font I use on gvim on my Windows machines
+"set guifont=Consolas:h10:cANSI 
 "winpos 50 50
 "set lines=50
 "set columns=120
