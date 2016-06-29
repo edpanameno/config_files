@@ -3,6 +3,7 @@
 	email =
 [core]
 	editor = vim
+	whitespace = cr-at-eol
 [merge]
 	tool = vimdiff
 [color]
