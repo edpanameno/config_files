@@ -106,9 +106,10 @@ alias la='ls -A'
 alias l='ls -a'
 alias h='history'
 
-alias mainsrv='ssh adminusr@mainsrv'
-alias testsrv='ssh edwin@testsrv'
-alias prolog='swipl'
+# SSH Alias to my local test linux server
+alias linuxsrv='ssh ed@linuxsrv'
+
+#alias prolog='swipl'
 
 PS1="[\u@ \W]\$ "
 export PS1
