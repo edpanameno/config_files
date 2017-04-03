@@ -2,11 +2,13 @@ set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim
 
+set nu
+syntax on
+set noswapfile 
+set noundofile  
 set nobackup
 set nowritebackup
 set lbr!
-set nu
-syntax on
 set ignorecase
 set incsearch
 
