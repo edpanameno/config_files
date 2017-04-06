@@ -35,5 +35,5 @@
 [credential]
 	# This is used on my windows machines to store credentials
 	# when working on git repositories on VisualStudio Online
-	helper = !'/cygdrive/c/apps/git-credential-winstore.exe'
+	#helper = !'/cygdrive/c/apps/git-credential-winstore.exe'
 
