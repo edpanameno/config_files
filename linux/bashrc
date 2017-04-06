@@ -37,24 +37,12 @@ esac
 PATH=$PATH:/home/ed/apps/android-sdk-linux_x86/plaform-tools
 export PATH
 
-# Subversion aliases
-alias svna="svn add"
-alias svnc="svn commit -m"
-alias svnl="svn log"
-alias svnu="svn update"
-alias svnst="svn status"
-
 # git aliases
 alias gc='git commit -a'
 alias gs='git status'
 alias gd='git diff'
 alias gc='git commit'
 alias gp='git push'
- 
-# Ruby aliases
-alias irb="irb1.9.1"
-alias ri="ri1.9.1"
-alias ruby="ruby1.9.1"
 
 # uncomment for a colored prompt, if the terminal has the capability; turned
 # off by default to not distract the user: the focus in a terminal window
