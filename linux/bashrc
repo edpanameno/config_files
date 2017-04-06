@@ -44,6 +44,8 @@ alias gd='git diff'
 alias gc='git commit'
 alias gp='git push'
 
+alias du='du --apparent-size'
+
 # uncomment for a colored prompt, if the terminal has the capability; turned
 # off by default to not distract the user: the focus in a terminal window
 # should be on the output of commands, not on the prompt
