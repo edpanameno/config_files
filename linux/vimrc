@@ -20,10 +20,6 @@ set ff=dos
 " For enabling Tasklist
 filetype plugin on
 
-" For GVim
-" Removes the tool bar from GVim
-set guioptions -=T
-
 " The following command removes the menu bar
 " from GVim
 "set guioptions -=m
