@@ -1,0 +1,13 @@
+These are steps I took after I upgraded my windows 10 machine and
+got Ubuntu installed from the Windows Store:
+
+- This will update git to the latest version
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+sudo apt-get install git
+
+To generate a ssh-key for both my github and vsts accounts I had
+to execute the following command:
+
+ssh-keygen -t rsa -b 4096 -C "my-email@address.com"
+
