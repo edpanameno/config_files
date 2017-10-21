@@ -10,6 +10,7 @@ set smartindent
 set ignorecase
 set incsearch
 set hlsearch
+set background=dark
 
 filetype plugin indent on
 
