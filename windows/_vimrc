@@ -24,10 +24,10 @@ set shiftwidth=4
 set ts=4
 
 " remove the toolbar from gvim
-set guioptions-=T
+"set guioptions-=T
 
 " Set font for gvim in windws
-set guifont=Lucida\ Console:h8
+" set guifont=Lucida\ Console:h8
 
 " My Maps
 " Tabs
