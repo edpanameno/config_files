@@ -12,7 +12,7 @@ set lbr!
 set ignorecase
 set incsearch
 
-highlight Normal guibg=black guifg=white
+"highlight Normal guibg=black guifg=white
 highlight comment ctermfg=lightblue
 syntax enable
 
