@@ -1,3 +1,5 @@
+# this was done so that in the iterm application I won't get an message about
+# bash being deprecated
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
 # start/stop apache and mysql for local wordpress development
@@ -7,9 +9,12 @@ alias wp-stop="sudo apachectl stop && mysql.server stop"
 if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
 fi
+
+# this was done for the setup of jekyll on my macos machine
 export PATH="/usr/local/opt/ruby/bin:$PATH"
 
-# export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
+# these are the settings used to setup the iterm look and feel for the
+# directories (i.e. blue color for directories, etc.)
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
-#alias ls='ls -GFh'
+
