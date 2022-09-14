@@ -31,6 +31,7 @@
 	lg = log --stat
 	ps = push
 	pl = pull
+	sw = switch
 [push]
 	default = matching
 [credential]

@@ -7,7 +7,7 @@
         {
           "foreground": "#FFF",
           "properties": {
-            "time_format": "3:04 PM"
+            "time_format": "Jan 02 @ 3:04 PM"
           },
           "style": "plain",
           "template": " {{ .CurrentDate | date .Format }} ",
