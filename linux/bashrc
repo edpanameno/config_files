@@ -121,3 +121,10 @@ fi
 if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
+
+# oh-my-posh stuff
+# note: I have all of my themes in the .poshtheme directory on my home
+# drive in both my linux/macos machines
+eval "$(oh-my-posh init bash)"
+eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/aliens.omp.json)" 
+
