@@ -30,7 +30,7 @@
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "style": "full"
+            "style": "folder"
           },
           "style": "powerline",
           "template": " {{ .Path }} ",
