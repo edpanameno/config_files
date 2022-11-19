@@ -1,6 +1,3 @@
-[user]
-	name =
-	email =
 [core]
 	editor = vim
 	whitespace = cr-at-eol
