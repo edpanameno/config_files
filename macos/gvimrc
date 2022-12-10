@@ -1,0 +1,9 @@
+" Settings for MacVim
+syntax on
+set hlsearch
+colorscheme slate 
+set bs=2
+set ai
+set ruler
+set guifont=Menlo\ Regular:h13
+set transparency=6
