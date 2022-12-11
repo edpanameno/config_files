@@ -10,7 +10,6 @@ set smartindent
 set ignorecase
 set incsearch
 set hlsearch
-# set background=dark
 
 filetype plugin indent on
 
@@ -21,10 +20,15 @@ set ff=dos
 " For enabling Tasklist
 filetype plugin on
 
-" settings for macvim on my mac
+" MacVim Settings
 colorscheme industry 
-set guifont=Menlo\ Regular:h13
-set transparency=20
+set guifont=Menlo\ Regular:h12
+
+"transparency is not something that exists in vim, therefore we have
+"to add the following conditional
+if has("gui_macvim")
+	set transparency=15
+endif
 
 " this setting is used for gvim on windows
 "set guifont=Consolas:h10:cANSI
