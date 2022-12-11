@@ -15,6 +15,6 @@ export PATH="/usr/local/opt/ruby/bin:$PATH"
 
 # these are the settings used to setup the iterm look and feel for the
 # directories (i.e. blue color for directories, etc.)
-export CLICOLOR=1
-export LSCOLORS=ExFxBxDxCxegedabagacad
+export clicolor=1
+export lscolors=exfxbxdxcxegedabagacad
 

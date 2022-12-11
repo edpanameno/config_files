@@ -1,0 +1,64 @@
+set nu
+set nobackup
+set nowritebackup
+set nocompatible
+set lbr!
+set showcmd
+set ic
+
+set smartindent
+set ignorecase
+set incsearch
+set hlsearch
+# set background=dark
+
+filetype plugin indent on
+
+" remove the funnly little ^M characters
+" at the end of files when working in cygwin
+set ff=dos
+
+" For enabling Tasklist
+filetype plugin on
+
+" settings for macvim on my mac
+colorscheme industry 
+set guifont=Menlo\ Regular:h13
+set transparency=20
+
+" this setting is used for gvim on windows
+"set guifont=Consolas:h10:cANSI
+"winpos 50 50
+"set lines=50
+"set columns=120
+
+" Auto complete settings
+"autocmd FileType python set omnifunc=pythoncomplete#Complete
+"autocmd FileType php set omnifunc=phpcomplete#CompletePHP
+
+" Status bar info
+set laststatus=2
+set autoindent
+
+syntax enable
+syntax on
+set cindent shiftwidth=4
+set tabstop=4
+
+set ruler
+set autoindent
+
+filetype plugin indent on
+
+"my c-defined configs
+highlight comment ctermfg=lightblue
+highlight string ctermfg=DarkYellow
+
+" My Mappings 
+" Tabs
+nmap te :tabedit
+nmap tc :tabclose<CR>
+nmap tn :tabnext<CR>
+nmap tp :tabprevious<CR>
+nmap tf :tabfirst<CR>
+nmap tl :tablast<CR>
