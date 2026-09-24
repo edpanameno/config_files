@@ -1,0 +1,39 @@
+[includeIf "gitdir:~/Desktop/projects/personal/"]
+    path = ~/.gitconfig-personal
+[includeIf "gitdir:~/Desktop/projects/work/"]
+    path = ~/.gitconfig-work
+[core]
+	editor = vim
+	whitespace = cr-at-eol
+	autocrlf = true
+[merge]
+	tool = vimdiff
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = auto
+[color "diff"]
+	meta = yellow bold
+	frag = magenta bold
+	old = red bold
+	new = green bold
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
+[alias]
+	st = status
+	ci = commit
+	ca = commit -a -v
+	br = branch
+	co = checkout
+	df = diff
+	lg = log --stat
+	ps = push
+	pl = pull
+	sw = switch
+[push]
+	default = matching
+[credential]
+
